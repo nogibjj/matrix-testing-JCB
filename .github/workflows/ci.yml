@@ -1,4 +1,4 @@
-name: Build - Matrix testing
+name: Build - Matrix testing 3.9 & 3.10
 on:
   push:
     branches: [ "main" ]
