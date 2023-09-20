@@ -19,6 +19,7 @@ lint:
 	ruff check src/*.py
 
 
-# deploy
+deploy:
+	# deploy goes here
 
 all: install lint format test 
