@@ -2,6 +2,7 @@
 <a target="_blank" href="https://colab.research.google.com/github/nogibjj/JCB_project1/blob/2afaf6a0b6c81049a06f7606ff4dc52a3ddb22d4/src/yf_currencies_nb.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+[![Build - Matrix testing 3.9 & 3.10](https://github.com/nogibjj/matrix-testing-JCB/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/matrix-testing-JCB/actions/workflows/ci.yml)
 
 # IDS 706 Individual Project 1
 
