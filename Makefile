@@ -14,9 +14,9 @@ format:
 
 # lint
 lint:
-	# pylint --disable=R,C --disable=unnecessary-pass --ignore-patterns=test_.*?py src/*.py
+	pylint --disable=R,C --disable=unnecessary-pass --ignore-patterns=test_.*?py src/*.py
 	nbqa ruff src/*.ipynb
-	ruff check src/*.py
+	#ruff check src/*.py
 
 
 deploy:
